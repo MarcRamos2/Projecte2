@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfAppTestAPIClient.View.WindowListBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppTestAPIClient.View"
+        mc:Ignorable="d"          
+        Title="Tasca" Height="300" Width="750" Loaded="Window_Loaded2">
+
+    <Grid Background="#FFA9A9A9">
+
+        <DataGrid x:Name="dgTasca" VerticalAlignment="Top" HorizontalAlignment="Left" Width="Auto"
+          AutoGenerateColumns="False" CanUserResizeColumns="True" CanUserAddRows="False">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Codi" IsReadOnly="True" Binding="{Binding Codi}" Width="40"/>
+                <DataGridTextColumn Header="Nom" IsReadOnly="True" Binding="{Binding Nom}" Width="Auto"/>
+                <DataGridTextColumn Header="Descripcio" IsReadOnly="True" Binding="{Binding Descripcio}" Width="Auto"/>
+                <DataGridTextColumn Header="Responsable" IsReadOnly="True" Binding="{Binding Responsable}" Width="Auto"/>
+                <DataGridTextColumn  Header="Colors" Binding="{Binding Colors}" Width="Auto"/>
+                <DataGridTextColumn Header="Data Inici" IsReadOnly="True" Binding="{Binding Data_Inici}" Width="Auto"/>
+                <DataGridTextColumn Header="Data Final" IsReadOnly="True" Binding="{Binding Data_Final}" Width="Auto"/>
+                <DataGridTextColumn Header="Estat" IsReadOnly="True" Binding="{Binding Estat}" Width="50"/>
+
+                <!--Boton Modificar -->
+                <DataGridTemplateColumn Header="Modificar" Width="60" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Modificar" Click="ModificarTasca" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <!--Boton Eliminar -->
+                <DataGridTemplateColumn Header="Eliminar" Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Eliminar" Click="EliminarTasca"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <!--Boton Afegir--><!--
+                <DataGridTemplateColumn Header="Afegir" Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Afegir" Click="AfegirTasca" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>-->
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+
+</Window> 

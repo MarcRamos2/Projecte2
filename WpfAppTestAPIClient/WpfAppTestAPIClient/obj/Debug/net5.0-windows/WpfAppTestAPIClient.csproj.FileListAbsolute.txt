@@ -1,0 +1,229 @@
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CopyComplete
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\45538934S\source\repos\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CopyComplete
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Downloads\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CopyComplete
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\ProjecteAPI\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CopyComplete
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Background.jpg
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_Content.g.cs
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\1.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\2.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture1.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture2.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture3.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture4.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture5.JPG
+C:\Users\mshum\Desktop\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture6.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\1.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\2.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Background.jpg
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture1.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture2.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture3.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture4.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture5.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture6.JPG
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_Content.g.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CopyComplete
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\mshum\Desktop\DAM2\M13 - Projecte\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\1.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\2.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Background.jpg
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture1.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture2.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture3.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture4.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture5.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Resources\Capture6.JPG
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.exe
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll.config
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.deps.json
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.json
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.runtimeconfig.dev.json
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_Content.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient_MarkupCompile.lref
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowDataGrid.baml
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditUser.baml
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowListBox.baml
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.g.resources
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\ref\WpfAppTestAPIClient.dll
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.pdb
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\WpfAppTestAPIClient.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditTasca.g.cs
+C:\Users\Hamza\Desktop\Copia_API_Hamza\WpfAppTestAPIClient\WpfAppTestAPIClient\obj\Debug\net5.0-windows\View\WindowEditTasca.baml
